@@ -1,4 +1,4 @@
-# automateDryFoodDispenser
+# automatedDryFoodDispenser
 Code by Tricia Pardave
 Design by Laura Gould and Sergio Segovia
 
