@@ -6,3 +6,5 @@ My team and I had five days to created a fully functioning automated dry food di
 We had access to 3D printers and several Arduino boards and motors.
 
 My role in the project to assemble the microcontroller, servo motor, and RTC clock module and write the code to have them all work in tandem.
+
+View final test of the project at: https://youtu.be/NROJhMLht30
